@@ -16,7 +16,7 @@ Beauty Academy adalah platform manajemen workshop kecantikan (Makeup, Skincare, 
 ## 🔗 Tautan Penting (Links)
 - **Video Demo (YouTube)** : [Klik di Sini untuk Menonton](MASUKKAN_LINK_YOUTUBE)
 - **Live Demo (Vercel)**   : [Klik di Sini untuk Mengunjungi Website](MASUKKAN_LINK_VERCEL)
-- **Repository Backend**  : [Link Repo Backend Express](MASUKKAN_LINK_REPO_BE)
+- **Repository Backend**  : [Link Repo Backend Express](https://github.com/anjeli02/BACKENDD-UTS-PEMWEB.git)
 
 ---
 
