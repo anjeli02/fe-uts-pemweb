@@ -15,20 +15,10 @@ Beauty Academy adalah platform manajemen workshop kecantikan (Makeup, Skincare, 
 
 ## 🔗 Tautan Penting (Links)
 - **Video Demo (YouTube)** : [Klik di Sini untuk Menonton](MASUKKAN_LINK_YOUTUBE)
-- **Live Demo (Vercel)**   : [Klik di Sini untuk Mengunjungi Website](MASUKKAN_LINK_VERCEL)
+- **Live Demo (Vercel)**   : [Klik di Sini untuk Mengunjungi Website](https://feutspemweb.vercel.app)
 - **Repository Backend**  : [Link Repo Backend Express](https://github.com/anjeli02/BACKENDD-UTS-PEMWEB.git)
 
----
 
-## 📝 Deskripsi Project
-Project ini memenuhi kriteria Ujian Akhir Semester Genap TA 2025/2026 dengan spesifikasi:
-1. **Database & Schema**: Menggunakan Prisma ORM dengan 3 tabel relasional (`CategoryEvent`, `Speaker`, `Event`).
-2. **Backend API**: Dibangun dengan Express.js (TypeScript) menyediakan 12 endpoint CRUD lengkap.
-3. **Frontend & Auth**: Dibangun dengan React.js (TypeScript) & Tailwind CSS.
-4. **State Management**: Menggunakan Zustand untuk sistem Login manual (NIM & Password) serta memproteksi halaman manajemen data (Protected Routes).
-5. **Deployment**: Frontend di-deploy ke Vercel dan Database menggunakan PostgreSQL (Supabase).
-
----
 
 ## 🚀 Fitur Utama
 - **Landing Page**: Beranda estetik bertema Beauty Class dengan informasi Seminar, Workshop, dan Talkshow.
